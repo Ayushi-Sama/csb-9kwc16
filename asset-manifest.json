@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://ayushi-sama.github.io/csb-9kwc16/static/js/main.ef85a294.chunk.js",
+    "main.js.map": "https://ayushi-sama.github.io/csb-9kwc16/static/js/main.ef85a294.chunk.js.map",
+    "runtime-main.js": "https://ayushi-sama.github.io/csb-9kwc16/static/js/runtime-main.167b9368.js",
+    "runtime-main.js.map": "https://ayushi-sama.github.io/csb-9kwc16/static/js/runtime-main.167b9368.js.map",
+    "static/js/2.824d600c.chunk.js": "https://ayushi-sama.github.io/csb-9kwc16/static/js/2.824d600c.chunk.js",
+    "static/js/2.824d600c.chunk.js.map": "https://ayushi-sama.github.io/csb-9kwc16/static/js/2.824d600c.chunk.js.map",
+    "index.html": "https://ayushi-sama.github.io/csb-9kwc16/index.html",
+    "precache-manifest.74eaab69023890e996c7c725b0772079.js": "https://ayushi-sama.github.io/csb-9kwc16/precache-manifest.74eaab69023890e996c7c725b0772079.js",
+    "service-worker.js": "https://ayushi-sama.github.io/csb-9kwc16/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.167b9368.js",
+    "static/js/2.824d600c.chunk.js",
+    "static/js/main.ef85a294.chunk.js"
+  ]
+}
